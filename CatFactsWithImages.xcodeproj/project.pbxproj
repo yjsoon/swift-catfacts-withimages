@@ -13,6 +13,8 @@
 		AF2D2DF126E303F70047DEDE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF2D2DF026E303F70047DEDE /* Preview Assets.xcassets */; };
 		AF2D2DF926E304580047DEDE /* CatFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2D2DF826E304580047DEDE /* CatFactView.swift */; };
 		AF2D2DFB26E3046D0047DEDE /* CatImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2D2DFA26E3046D0047DEDE /* CatImageView.swift */; };
+		AF2D2DFD26E305990047DEDE /* CatFactManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2D2DFC26E305990047DEDE /* CatFactManager.swift */; };
+		AF2D2DFF26E307200047DEDE /* CatFact.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2D2DFE26E307200047DEDE /* CatFact.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		AF2D2DF226E303F70047DEDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AF2D2DF826E304580047DEDE /* CatFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactView.swift; sourceTree = "<group>"; };
 		AF2D2DFA26E3046D0047DEDE /* CatImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatImageView.swift; sourceTree = "<group>"; };
+		AF2D2DFC26E305990047DEDE /* CatFactManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactManager.swift; sourceTree = "<group>"; };
+		AF2D2DFE26E307200047DEDE /* CatFact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFact.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			children = (
 				AF2D2DE926E303F60047DEDE /* CatFactsWithImagesApp.swift */,
 				AF2D2DEB26E303F60047DEDE /* ContentView.swift */,
+				AF2D2DFC26E305990047DEDE /* CatFactManager.swift */,
+				AF2D2DFE26E307200047DEDE /* CatFact.swift */,
 				AF2D2DF826E304580047DEDE /* CatFactView.swift */,
 				AF2D2DFA26E3046D0047DEDE /* CatImageView.swift */,
 				AF2D2DED26E303F70047DEDE /* Assets.xcassets */,
@@ -146,6 +152,8 @@
 			files = (
 				AF2D2DEC26E303F60047DEDE /* ContentView.swift in Sources */,
 				AF2D2DF926E304580047DEDE /* CatFactView.swift in Sources */,
+				AF2D2DFF26E307200047DEDE /* CatFact.swift in Sources */,
+				AF2D2DFD26E305990047DEDE /* CatFactManager.swift in Sources */,
 				AF2D2DEA26E303F60047DEDE /* CatFactsWithImagesApp.swift in Sources */,
 				AF2D2DFB26E3046D0047DEDE /* CatImageView.swift in Sources */,
 			);
